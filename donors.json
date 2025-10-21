@@ -1,7 +1,7 @@
 [
 	{
 		"name": "TestUser",
-		"amount": 42
+		"amount": 12
 	},
 	{
 		"name": "TestUser",
@@ -21,10 +21,10 @@
 	},
 	{
 		"name": "vnto",
-		"amount": 666
+		"amount": 26
 	},
 	{
 		"name": "vnto",
-		"amount": 333
+		"amount": 63
 	}
 ]
